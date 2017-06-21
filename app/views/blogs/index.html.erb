@@ -16,9 +16,9 @@
       <tr>
         <td><%= blog.title %></td>
         <td><%= blog.body %></td>
-        <td><%= link_to 'View the inevitable darkness of this post', blog %></td>
-        <td><%= link_to 'Edit the post at your own caution. Know it WILL NOT get any better', edit_blog_path(blog) %></td>
-        <td><%= link_to 'Return the World to BEAUTY' , blog, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to 'View post', blog %></td>
+        <td><%= link_to 'Edit', edit_blog_path(blog) %></td>
+        <td><%= link_to 'Delete' , blog, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>
