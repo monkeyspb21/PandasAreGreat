@@ -28,7 +28,7 @@ class BlogsController < ApplicationController
 
     respond_to do |format|
       if @blog.save
-        format.html { redirect_to @blog, notice: 'That post is a disgrace to humanity as well as existance itself.' }
+        format.html { redirect_to @blog, notice: 'Your post was sucsessfully created.' }
         format.json { render :show, status: :created, location: @blog }
       else
         format.html { render :new }
@@ -42,7 +42,7 @@ class BlogsController < ApplicationController
   def update
     respond_to do |format|
       if @blog.update(blog_params)
-        format.html { redirect_to @blog, notice: 'That post is still terrible.' }
+        format.html { redirect_to @blog, notice: 'Your post was sucsessfully updated.' }
         format.json { render :show, status: :ok, location: @blog }
       else
         format.html { render :edit }
@@ -56,7 +56,7 @@ class BlogsController < ApplicationController
   def destroy
     @blog.destroy
     respond_to do |format|
-      format.html { redirect_to blogs_url, notice: 'Finally the bright light has returned to the world.' }
+      format.html { redirect_to blogs_url, notice: 'Your post was sucsessfully deleted.' }
       format.json { head :no_content }
     end
   end
@@ -64,7 +64,7 @@ class BlogsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_blog
-      @blog = Blog.find(params[:id])
+      @blog = Blog.friendly.find(params[:id])
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
