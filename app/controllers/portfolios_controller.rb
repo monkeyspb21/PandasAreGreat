@@ -50,6 +50,10 @@ class PortfoliosController < ApplicationController
     @portfolio_item = Portfolio.find(params[:id])
     
     # Destroy/delete the record
+    @portfolio_item.technologies.each do |technology|
+      technology.destroy
+    end
+    
     @portfolio_item.destroy
     
     # Redirect
