@@ -21,10 +21,13 @@
       <%= link_to "Login", new_user_session_path %>
     <% end %>
 
+    
+    
     <%= yield %>
     
       
-   <%= render "shared/nav" %>
+
+
     
     <% if session[:source] %>
     <hr>
@@ -32,5 +35,7 @@
      <hr>
     <% end %>
   
+    <%= render "shared/nav", location: 'bottom' %>
+    
   </body>
 </html>
