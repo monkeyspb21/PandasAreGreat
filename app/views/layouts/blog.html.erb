@@ -16,21 +16,9 @@
 
    <%=  authentication_helper %>
 
-
-
-    
-    
     <%= yield %>
-    
-      
 
-
-    
-    <% if session[:source] %>
-    <hr>
-     <p> Thanks for visiting me from <%= session[:source] %>!</p>
-     <hr>
-    <% end %>
+    <%= source_helper("blog") %>
   
     <%= render "shared/nav", location: 'bottom' %>
     
