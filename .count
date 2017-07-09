@@ -1,0 +1,196 @@
+=> [[32m#<Blog:0x007f2a9c00b108[0m
+  id: [1;34m2[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 1[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-1[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00afa0[0m
+  id: [1;34m3[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 2[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-2[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00ae10[0m
+  id: [1;34m4[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 3[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-3[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00aca8[0m
+  id: [1;34m5[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 4[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-4[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00ab40[0m
+  id: [1;34m6[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 5[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-5[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a9d8[0m
+  id: [1;34m7[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 6[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-6[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a848[0m
+  id: [1;34m8[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 7[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-7[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a6e0[0m
+  id: [1;34m9[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 8[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-8[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a550[0m
+  id: [1;34m10[0m,
+  title: [31m[1;31m"[0m[31mMy Blog Post 9[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-9[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a3c0[0m
+  id: [1;34m11[0m,
+  title: [31m[1;31m"[0m[31mnghfhfhfh[1;31m"[0m[31m[0m,
+  body: [31m[1;31m"[0m[31mefgreerr[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mWed[0m, [1;34m28[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m17[0m:[1;34m14[0m:[1;34m23[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mWed[0m, [1;34m28[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m17[0m:[1;34m14[0m:[1;34m23[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mnghfhfhfh[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a258[0m
+  id: [1;34m12[0m,
+  title: [31m[1;31m"[0m[31mfssf[1;31m"[0m[31m[0m,
+  body: [31m[1;31m"[0m[31msfewsc [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m29[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m14[0m:[1;34m11[0m:[1;34m45[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m29[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m14[0m:[1;34m11[0m:[1;34m45[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mfssf[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c00a0f0[0m
+  id: [1;34m1[0m,
+  title: [31m[1;31m"[0m[31mBloggy Frog[1;31m"[0m[31m[0m,
+  body:
+   [31m[1;31m"[0m[31mSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, [1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam [1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate [1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+   [31m[1;31m"[0m[31m    velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m23[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m15[0m:[1;34m40[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m29[0m [1;34;4mJun[0m [1;34m2017[0m [1;34m16[0m:[1;34m17[0m:[1;34m37[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mmy-blog-post-0[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;34m3[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c009f38[0m
+  id: [1;34m13[0m,
+  title: [31m[1;31m"[0m[31mghnedcf[1;31m"[0m[31m[0m,
+  body: [31m[1;31m"[0m[31mrthsetf[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mWed[0m, [1;34m05[0m [1;34;4mJul[0m [1;34m2017[0m [1;34m15[0m:[1;34m23[0m:[1;34m57[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mWed[0m, [1;34m05[0m [1;34;4mJul[0m [1;34m2017[0m [1;34m15[0m:[1;34m23[0m:[1;34m57[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31mghnedcf[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;36mnil[0m[32m>[0m,
+ [32m#<Blog:0x007f2a9c009dd0[0m
+  id: [1;34m14[0m,
+  title: [31m[1;31m"[0m[31muidrjivjiroi[1;31m"[0m[31m[0m,
+  body: [31m[1;31m"[0m[31mdrtg4erf[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m06[0m [1;34;4mJul[0m [1;34m2017[0m [1;34m17[0m:[1;34m33[0m:[1;34m36[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m06[0m [1;34;4mJul[0m [1;34m2017[0m [1;34m17[0m:[1;34m33[0m:[1;34m36[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  slug: [31m[1;31m"[0m[31muidrjivjiroi[1;31m"[0m[31m[0m,
+  status: [31m[1;31m"[0m[31mdraft[1;31m"[0m[31m[0m,
+  topic_id: [1;36mnil[0m[32m>[0m]
