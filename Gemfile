@@ -57,5 +57,5 @@ gem 'devise', '~> 4.3'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
-gem 'bkrr_view_tool', git: "https://github.com/monkeyspb21/BkrrViewTool-"
+gem 'bkrr_view_tool', '~> 0.1.0' 
 
