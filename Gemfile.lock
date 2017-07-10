@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/monkeyspb21/BkrrViewTool-
+  revision: 32029330c8a6a29e8bc996de27d538af501f00bc
+  specs:
+    bkrr_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -183,6 +189,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bkrr_view_tool!
   bootstrap (~> 4.0.0.alpha6)
   byebug
   coffee-rails (~> 4.2)

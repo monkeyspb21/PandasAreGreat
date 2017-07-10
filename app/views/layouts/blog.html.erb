@@ -17,10 +17,12 @@
    <%=  authentication_helper %>
 
     <%= yield %>
-
+    
     <%= source_helper("blog") %>
   
     <%= render "shared/nav", location: 'bottom' %>
+    
+    <%= copyright_generator %>
     
   </body>
 </html>

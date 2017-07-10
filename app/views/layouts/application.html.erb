@@ -15,8 +15,12 @@
     <p class="alert"><%= alert %></p>
     
    <%= render "shared/nav", location: 'top' %>
+   
    <%=  authentication_helper %>
+   
     <%= yield %>
+    
+    <%= copyright_generator %>
     
    
   <%= source_helper ("application")%>
