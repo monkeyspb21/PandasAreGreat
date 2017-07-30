@@ -157,7 +157,7 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 55rem;
+    width: 65rem;
   }
 }
 
@@ -206,4 +206,17 @@ body {
   transform: translateX(-50%) translateY(-50%);
   background: image-url('goat.jpg') no-repeat;
   background-size: cover;
+}
+
+.tech_news {
+  color: black;
+  margin: 20px;
+}
+
+.tech_news a {
+  color: #aa00ff;
+}
+
+.login > .card {
+  padding: 30px;
 }
