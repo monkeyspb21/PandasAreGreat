@@ -9,11 +9,6 @@ class Blog < ApplicationRecord
   
   has_many :comments, dependent: :destroy
 
-  def self.special_blogs
-    all
-  end
-
-  def self.featured_blogs
-    limit(2)
-  end
+  default_scope { order(created_at: :desc) }
+  
 end
