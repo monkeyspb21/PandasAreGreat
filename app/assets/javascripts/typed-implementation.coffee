@@ -3,7 +3,7 @@ ready = ->
   strings: [
     'I am a curious human that is learning to code.'
   ]
-  typeSpeed: 50
+  typeSpeed: 10
   return
   
 
